@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Alarm Manager</string>
+    <string name="title_activity_add_alarm">Add Alarm</string>
+    <string name="time">Time</string>
+    <string name="action_save">Save</string>
+    <string name="repeat">Repeat</string>
+    <string name="label">Set Label</string>
+    <string name="delete_alarm">DELETE ALARM</string>
+    <string name="alarm">Alarm</string>
+    <string name="dismiss">DISMISS</string>
+    <string name="channel_description">Alarm</string>
+    <string name="no_active_alarm_tap_alarm_icon_to_add">No Active Alarm Tap Alarm Icon To Add</string>
+</resources>
